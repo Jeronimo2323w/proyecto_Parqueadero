@@ -11,7 +11,7 @@ import java.time.LocalTime;
  *
  * @author Jeronimo
  */
-public class Multa {
+public class Multa  {
     private float Precio_por_hora_excedida;
     private float Valor_total_de_Multa;
     private Reserva reserva;
